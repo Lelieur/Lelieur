@@ -59,8 +59,10 @@ ___
   </tr>
   <tr>
     <td align="center">
-        <span>Code</span>
-        <span>Code</span>
+        <span>https://img.shields.io/badge/-CLIENT-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FLelieur%2FLaPremiere_FindYourMovie
+</span>
+        <span>https://img.shields.io/badge/-SERVER-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FLelieur%2FLaPremiere_FindYourMovie
+</span>
     </td>
   </tr>
 </table>
