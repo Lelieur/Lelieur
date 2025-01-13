@@ -54,10 +54,8 @@ ___
   </tr>
   <tr>
     <td>
-      <tr>
         <td>Code</td>
         <td>Code</td>
-      </tr>
     </td>
   </tr>
 </table>
