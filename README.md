@@ -51,12 +51,12 @@ __
 
 ## ⚙️ My GitHub stats
 
-<span align="center">
+<div style="display:flex, justify-content:center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lelieur&theme=dark&layout=compact" />
-</span>
-<span align="center">
+
+
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lelieur&theme=dark&layout=compact" />
-</span>
+</div>
 
 ___
 
