@@ -47,7 +47,11 @@ If you have an exciting project or want to collaborate, feel free to reach out:
 - LinkedIn: [https://www.linkedin.com/in/lucaslelieur-webdeveloper/]  
 - Email: [lucas.lelieur.ll@gmail.com]
 
+__
 
+## ⚙️ My GitHub stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 ___
 
 *Thanks for stopping by! Let’s create something amazing together. 🚀*
