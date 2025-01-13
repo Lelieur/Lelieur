@@ -52,7 +52,7 @@ __
 ## ⚙️ My GitHub stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lelieur&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelieur)](https://github.com/lelieur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelieur&theme=dark)](https://github.com/lelieur/github-readme-stats)
 ___
 
 *Thanks for stopping by! Let’s create something amazing together. 🚀*
