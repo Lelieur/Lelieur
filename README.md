@@ -7,7 +7,7 @@ ___
 
 ## 🚀 Technologies I Work With
 
-- ##Languages:## JavaScript, HTML, CSS
+- **Languages:** JavaScript, HTML, CSS
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=light)](https://skillicons.dev)
 
@@ -46,6 +46,10 @@ If you have an exciting project or want to collaborate, feel free to reach out:
 - LinkedIn: [https://www.linkedin.com/in/lucaslelieur-webdeveloper/]  
 - Email: [lucas.lelieur.ll@gmail.com]
 
+
+___
+
+*Thanks for stopping by! Let’s create something amazing together. 🚀*
 
 
 <!--
