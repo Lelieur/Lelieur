@@ -28,11 +28,11 @@ ___
 
 ## 💡 What I Do
 
-🚀 **Build Full Stack Applications:** Develop scalable web solutions using JavaScript (ES6+), React.js, Node.js, Express, and MongoDB.
-🎨 **Create Responsive User Interfaces:** Design and implement intuitive, mobile-friendly interfaces with HTML5 and CSS3.
-🔄 **Integrate APIs and Databases:** Build and consume RESTful APIs, ensuring seamless communication between front-end and back-end systems.
-🛠 **Solve Complex Problems:** Leverage strong analytical skills to debug, optimize, and improve application performance.
-📈 **Collaborate Across Teams:** Apply project management expertise to align technical development with business goals and user needs.
+🚀 **Build Full Stack Applications:** Develop scalable web solutions using JavaScript (ES6+), React.js, Node.js, Express, and MongoDB.  
+🎨 **Create Responsive User Interfaces:** Design and implement intuitive, mobile-friendly interfaces with HTML5 and CSS3.  
+🔄 **Integrate APIs and Databases:** Build and consume RESTful APIs, ensuring seamless communication between front-end and back-end systems.  
+🛠 **Solve Complex Problems:** Leverage strong analytical skills to debug, optimize, and improve application performance.  
+📈 **Collaborate Across Teams:** Apply project management expertise to align technical development with business goals and user needs.  
 
 ___
 
