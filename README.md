@@ -45,8 +45,8 @@ ___
 
 <table>
   <tr>
-    <th><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788255/LOGO_blanca_kkwqzh.png"/></th>
-    <th><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788199/Logo_kzwn86.png"/></th>
+    <th><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788255/LOGO_blanca_kkwqzh.png" style="width:50px"/></th>
+    <th><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788199/Logo_kzwn86.png" style="width:50px"/></th>
   </tr>
   <tr>
     <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png"/></td>
