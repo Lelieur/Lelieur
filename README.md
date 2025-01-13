@@ -72,8 +72,8 @@ ___
 ## 📬 Let’s Connect!
 If you have an exciting project or want to collaborate, feel free to reach out:
 
-- LinkedIn: [https://www.linkedin.com/in/lucaslelieur-webdeveloper/]  
-- Email: [lucas.lelieur.ll@gmail.com]
+- LinkedIn: <a href="https://www.linkedin.com/in/lucaslelieur-webdeveloper/" target="_blank">https://www.linkedin.com/in/lucaslelieur-webdeveloper</a>
+- Email: <a href="lucas.lelieur.ll@gmail.com" target="_blank">lucas.lelieur.ll@gmail.com</a>
 
 __
 
