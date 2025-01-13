@@ -45,10 +45,13 @@ ___
 
 <table style="width:800px">
   <tr>
-    <th colspan="2"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788255/LOGO_blanca_kkwqzh.png" style="height:30px"/></th>
+    <th><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788255/LOGO_blanca_kkwqzh.png" style="height:30px"/></th>
   </tr>
   <tr>
-    <td valign="top"><img height=300 src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png"/></td>
+    <td>
+      <img height=300 src="https://res.cloudinary.com/dhluctrie/image/upload/v1736790108/PICKUP_MockUp2_t2nso6.png"/>
+      <img height=300 src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png"/>
+    </td>
   </tr>
   <tr>
     <td>Web application for sharing movie reviews and joining communities of movie buffs. Includes a user authentication system and dynamic database management with MongoDB.
