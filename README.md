@@ -52,6 +52,14 @@ ___
     <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png"/></td>
     <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736523691/La_Premiere_MockUp_kb6aeu.png"/></td>
   </tr>
+  <tr>
+    <td>
+      <tr>
+        <td>Code</td>
+        <td>Code</td>
+      </tr>
+    </td>
+  </tr>
 </table>
 
 ___
