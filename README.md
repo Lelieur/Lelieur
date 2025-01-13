@@ -54,8 +54,8 @@ ___
   </tr>
   <tr>
     <td>
-        <td>Code</td>
-        <td>Code</td>
+        <span>Code</span>
+        <span>Code</span>
     </td>
   </tr>
 </table>
