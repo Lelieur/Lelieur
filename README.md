@@ -52,8 +52,8 @@ __
 ## ⚙️ My GitHub stats
 
 <div style="display: flex, justify-content:inline">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lelieur&theme=dark&layout=compact" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lelieur&theme=dark&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lelieur&theme=dark&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lelieur&theme=dark&layout=compact" />
 </div>
 
 ___
