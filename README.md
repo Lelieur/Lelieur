@@ -41,6 +41,21 @@ ___
 I’m a passionate **Full Stack Developer** focused on creating **scalable**, **user-friendly** web applications, with a strong interest in **social media** and the **entertainment** industry. My background as a **Project Manager** equips me with unique skills in **collaboration**, **problem-solving**, and **aligning technical solutions with business goals**, bridging **creativity** and **functionality**.  
 ___
 
+## ⚡️ Featured projects
+
+<table>
+  <tr>
+    <th><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788255/LOGO_blanca_kkwqzh.png"/></th>
+    <th><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788199/Logo_kzwn86.png"/></th>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png"/></td>
+    <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736523691/La_Premiere_MockUp_kb6aeu.png"/></td>
+  </tr>
+</table>
+
+___
+
 ## 📬 Let’s Connect!
 If you have an exciting project or want to collaborate, feel free to reach out:
 
