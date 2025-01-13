@@ -48,7 +48,7 @@ ___
     <th colspan="2"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788255/LOGO_blanca_kkwqzh.png" style="height:30px"/></th>
   </tr>
   <tr>
-    <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png" style="width:150px/></td>
+    <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png" style="width:150px"/></td>
     <td></td>
   </tr>
   <tr>
