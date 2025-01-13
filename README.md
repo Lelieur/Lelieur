@@ -51,7 +51,7 @@ __
 
 ## ⚙️ My GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lelieur&show_icons=true&theme=dark)
 ___
 
 *Thanks for stopping by! Let’s create something amazing together. 🚀*
