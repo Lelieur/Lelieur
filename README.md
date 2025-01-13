@@ -1,7 +1,8 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQEBdQ0gV69CuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734540743585?e=1742428800&v=beta&t=xV9UpSWVrqJmnXw40e5aSWHJwP20pggHaY2Innxqlww" />
 
-## Hi there 👋
+## Hi there, I'm Lucas Lelieur 👋
 
+I specialize in creating visually engaging and efficient web applications using technologies like JavaScript, React.js, Node.js, and MongoDB. With a background in Project Management, I bring a strategic approach to development, aligning technical solutions with user needs and business goals.  
 
 ___
 
