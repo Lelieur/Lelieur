@@ -49,7 +49,7 @@ ___
   </tr>
   <tr>
     <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png" style="width:500px"/></td>
-    <td></td>
+    <td>Web application for sharing movie reviews and joining communities of movie buffs. Includes a user authentication system and dynamic database management with MongoDB.</td>
   </tr>
   <tr>
     <td align="center">
