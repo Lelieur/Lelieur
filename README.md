@@ -53,7 +53,7 @@ ___
     <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736523691/La_Premiere_MockUp_kb6aeu.png"/></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
         <span>Code</span>
         <span>Code</span>
     </td>
