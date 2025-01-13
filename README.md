@@ -2,6 +2,15 @@
 
 ## Hi there 👋
 
+
+___
+
+## 🚀 Technologies I Work With
+
+- ##Languages:## JavaScript, HTML, CSS
+
+[![My Skills](https://skillicons.dev/icons?i=js,HTML,css&theme=light)](https://skillicons.dev)
+
 <!--
 **Lelieur/Lelieur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
