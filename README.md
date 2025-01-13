@@ -7,16 +7,20 @@ ___
 
 ## 🚀 Technologies I Work With
 
-- ##Languages:## JavaScript, HTML, CSS  
+- ##Languages:## JavaScript, HTML, CSS
+  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=light)](https://skillicons.dev)
 
-- **Frameworks & Libraries:** React, Express, Bootstrap  
+- **Frameworks & Libraries:** React, Express, Bootstrap
+  
 [![My Skills](https://skillicons.dev/icons?i=react,express,bootstrap&theme=light)](https://skillicons.dev)
 
-- **Databases:** MongoDB  
+- **Databases:** MongoDB
+  
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)
 
-- **Tools:** Figma, Visual Studio Code, GitHub, Vite, Postman, Notion, Codepen  
+- **Tools:** Figma, Visual Studio Code, GitHub, Vite, Postman, Notion, Codepen
+  
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,github,vite,postman,notion,codepen&theme=light)](https://skillicons.dev)
 
 ___
@@ -39,8 +43,8 @@ ___
 ## 📬 Let’s Connect!
 If you have an exciting project or want to collaborate, feel free to reach out:
 
-LinkedIn: [https://www.linkedin.com/in/lucaslelieur-webdeveloper/]  
-Email: [lucas.lelieur.ll@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/lucaslelieur-webdeveloper/]  
+- Email: [lucas.lelieur.ll@gmail.com]
 
 
 
