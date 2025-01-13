@@ -43,13 +43,16 @@ ___
 
 ## ⚡️ Featured projects
 
-<table>
+<table style="width:800px">
   <tr>
     <th colspan="2"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788255/LOGO_blanca_kkwqzh.png" style="height:30px"/></th>
   </tr>
   <tr>
-    <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png" style="width:500px"/></td>
-    <td>Web application for sharing movie reviews and joining communities of movie buffs. Includes a user authentication system and dynamic database management with MongoDB.</td>
+    <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png"/></td>
+  </tr>
+  <tr>
+    <td>Web application for sharing movie reviews and joining communities of movie buffs. Includes a user authentication system and dynamic database management with MongoDB.
+</td>
   </tr>
   <tr>
     <td align="center">
