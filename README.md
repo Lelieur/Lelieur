@@ -46,11 +46,9 @@ ___
 <table>
   <tr>
     <th><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788255/LOGO_blanca_kkwqzh.png" style="height:30px"/></th>
-    <th><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788199/Logo_kzwn86.png" style="height:30px"/></th>
   </tr>
   <tr>
     <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png"/></td>
-    <td valign="top"><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736523691/La_Premiere_MockUp_kb6aeu.png"/></td>
   </tr>
   <tr>
     <td align="center">
