@@ -77,11 +77,13 @@ If you have an exciting project or want to collaborate, feel free to reach out:
 
 __
 
-## ⚙️ My GitHub stats
+## ⚙️ My stats
+
 
 <div style="display: flex, justify-content:inline">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lelieur&theme=dark&layout=compact" />
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lelieur&theme=dark&layout=compact" />
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Lelieur)
 </div>
 
 ___
