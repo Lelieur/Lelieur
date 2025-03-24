@@ -49,7 +49,7 @@ ___
   </tr>
   <tr>
     <td align="center">
-      <img height=300 src="https://res.cloudinary.com/dhluctrie/image/upload/v1736790108/PICKUP_MockUp2_t2nso6.png"/>
+      <img height=300 src="https://res.cloudinary.com/lucaslelieur/image/upload/v1736788512/MockUp-1_r5ffnv.png"/>
       <img height=300 src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png"/>
     </td>
   </tr>
