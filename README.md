@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQEBdQ0gV69CuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734540743585?e=1742428800&v=beta&t=xV9UpSWVrqJmnXw40e5aSWHJwP20pggHaY2Innxqlww" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQEBdQ0gV69CuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734540743585?e=1748476800&v=beta&t=1p7B76NYKy0WNNvAIfIzofxXqnCwfyofpsvhRPOkDkg" />
 
 ## Hi there, I'm Lucas Lelieur 👋
 
