@@ -45,7 +45,7 @@ ___
 
 <table style="width:800px">
   <tr>
-    <th><img src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788255/LOGO_blanca_kkwqzh.png" style="height:30px"/></th>
+    <th><img src="https://res.cloudinary.com/lucaslelieur/image/upload/v1736788255/LOGO_blanca_kkwqzh.png" style="height:30px"/></th>
   </tr>
   <tr>
     <td align="center">
