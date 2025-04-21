@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQEBdQ0gV69CuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734540743585?e=1748476800&v=beta&t=1p7B76NYKy0WNNvAIfIzofxXqnCwfyofpsvhRPOkDkg" />
+<img src="https://res.cloudinary.com/lucaslelieur/image/upload/v1745253690/Portada_LinkedIn_l4wyop.png" />
 
 ## Hi there, I'm Lucas Lelieur 👋
 
