@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/lucaslelieur/image/upload/v1745253690/Portada_LinkedIn_l4wyop.png" />
+<img src="https://res.cloudinary.com/lucaslelieur/image/upload/v1745253690/Portada_LinkedIn_l4wyop.png" alt="Lucas Lelieur Full Stack Developer Profile Cover"/>
 
 ## Hi there, I'm Lucas Lelieur 👋
 
@@ -49,8 +49,8 @@ ___
   </tr>
   <tr>
     <td align="center">
-      <img height=300 src="https://res.cloudinary.com/lucaslelieur/image/upload/v1736788512/MockUp-1_r5ffnv.png"/>
-      <img height=300 src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png"/>
+      <a href="https://pickup-blush.vercel.app/" target="_blank"><img height=300 src="https://res.cloudinary.com/lucaslelieur/image/upload/v1736788512/MockUp-1_r5ffnv.png"/></a>
+      <a href="https://pickup-blush.vercel.app/" target="_blank"><img height=300 src="https://res.cloudinary.com/dhluctrie/image/upload/v1736788512/MockUp-1_r5ffnv.png"/></a>
     </td>
   </tr>
   <tr>
@@ -59,10 +59,12 @@ ___
   </tr>
   <tr>
     <td align="center">
-        <span><img src="https://img.shields.io/badge/-CLIENT-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FLelieur%2FLaPremiere_FindYourMovie" />
-</span>
-        <span><img src="https://img.shields.io/badge/-SERVER-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FLelieur%2FLaPremiere_FindYourMovie" />
-</span>
+        <a href="https://github.com/Lelieur/PICKUP_CinephilesForum" target="_blank">
+  <img src="https://img.shields.io/badge/-CLIENT-green?style=for-the-badge&logo=github" />
+</a>
+      <a href="https://github.com/Lelieur/PICKUP_CinephilesForum_API" target="_blank">
+       <img src="https://img.shields.io/badge/-SERVER-green?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FLelieur%2FLaPremiere_FindYourMovie" />
+</a>
     </td>
   </tr>
 </table>
@@ -79,28 +81,13 @@ __
 
 ## ⚙️ My stats
 
-
+<details>
 <div style="display: flex, justify-content:inline">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lelieur&theme=dark&layout=compact" />
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lelieur&theme=dark&layout=compact" />
 </div>
+</details>
 
 ___
 
 *Thanks for stopping by! Let’s create something amazing together. 🚀*
-
-
-<!--
-**Lelieur/Lelieur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
